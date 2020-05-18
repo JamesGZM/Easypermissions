@@ -4,4 +4,7 @@
     <color name="ep_colorPrimary">#ff212121</color>
     <color name="ep_colorPrimaryDark">@android:color/black</color>
     <color name="ep_colorAccent">#ff80cbc4</color>
+
+    <color name="ep_dialog_background">#FFFFFF</color>
+    <color name="ep_dialog_text_color">#000000</color>
 </resources>
